@@ -29,6 +29,6 @@ public class combinationSum3 {
 
     //Main function for calling the method
     public static void main(String[] args) {
-        System.out.println(combinationSum3(3, 9));
+        System.out.println(combinationSum3(4, 15));
     }
 }
